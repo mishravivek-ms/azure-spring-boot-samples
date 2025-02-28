@@ -87,6 +87,8 @@ to see how to test it.
       - ✅ Auth by userAssignedManagedIdentity (@saragluna: validated)
       - ✅ Auth by connectionString (@saragluna: validated)
      
+      - Demo branch
+     
 - To verify
   - [ ] https://github.com/mkyong/spring-boot/tree/master/spring-data-jpa-postgresql
   - [ ] https://github.com/Azure-Samples/app-templates-java-openai-springapps
